@@ -1,0 +1,12 @@
+console.log('Hello html');
+function printOut(){
+  console.log(`My name is BoBo - I'm 20 years old`);
+}
+
+ function sum(a, b){ 
+  return a + b;
+}
+
+let x = sum(8 , 9);
+let y = sum(8 , 9);
+console.log(x * y );
