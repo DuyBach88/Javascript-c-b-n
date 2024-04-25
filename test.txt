@@ -1,0 +1,7 @@
+1. What is Async JavaScript
+  synchronous : đồng bộ
+  asynchronous: bất đồng bộ
+ - là thực hiện một hành động gì đấy tốn thời gian và phải chờ hành động đấy lấy kết quả 
+có thể ảnh hưởng đến dữ liệu (code ko chạy theo trình tự )
+
+2. Http Requests
